@@ -1,6 +1,6 @@
 # Reglas de la Comunidad
 
-*Reglas de la Comunidad de Programadores y Desarrolladores Web TripoGeek.*
+**Reglas de la Comunidad de Programadores y Desarrolladores Web TripoGeek.**
 
 ## Normas de Convivencia
 
@@ -18,7 +18,7 @@
 
 * Los proyectos se deben de tomar con seriedad, pues el objetivo de la comunidad es el apoyo a proyectos que puedan tener un impacto sobre la sociedad.
 
-*Procedimiento*
+**Procedimiento**
 
 * Comentario, se procederá a dejarlo al tanto de su falta, si persiste en su comportamiento se procede a eliminar dicho comentario. De persistir el usuario después de ello, se procederá a bloquearlo de la comunidad.
 
@@ -38,7 +38,7 @@
 
 ## Organización
 
-*Con el fin de organizar mejor el contenido de las publicaciones y facilitar la búsqueda de información, agradecemos a los miembros de la comunidad utilizar un hashtag (#) con el tema que van a publicar:*
+*Con el fin de organizar mejor el contenido de las publicaciones y facilitar la búsqueda de información, agradecemos a los miembros de la comunidad utilizar un **hashtag (#)** con el tema que van a publicar:*
 
 * Aporte-> Vídeos, Noticias, Cursos.
 
@@ -46,9 +46,9 @@
 
 * OffTopic-> Chistes, o temas no relacionados con otras etiquetas, pero igual que respete el tema del grupo.
 
-* Pregunta #(Tecnología) por ejemplo: #Pregunta #PHP- #Pregunta #SQL - #Pregunta #JavaScript.
+* Pregunta **#(Tecnología)** por ejemplo: #Pregunta #PHP- #Pregunta #SQL - #Pregunta #JavaScript.
 
-*Procedimiento*
+**Procedimiento**
 
 * Se procederá a eliminar dicha publicación que no cumpla con el reglamento. De continuar con la actitud, se procederá directamente a bloquear de la comunidad.
 
@@ -63,7 +63,7 @@
 
 * Otros beneficios.
 
-*Nota: Si no estás seguro contacta con alguno de los moderadores del grupo antes de publicar.*
+* **Nota:** Si no estás seguro contacta con alguno de los moderadores del grupo antes de publicar.*
 
 
 ## Publicidad
@@ -72,7 +72,7 @@
 
 * Quedan prohibidas las publicaciones que hagan referencia a una marca de algún Producto o Servicio con el fin de conseguir una venta o tener más usuarios.
 
-*Procedimiento*
+**Procedimiento**
 
 * Comentario, se procederá a eliminar dicho comentario. De persistir después de la advertencia, se procederá a bloquear de la comunidad.
 
