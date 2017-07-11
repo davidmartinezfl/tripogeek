@@ -22,10 +22,10 @@ Esto es algo con lo que todos podemos ganar experiencia, conocimientos nuevos, a
 
 **¡Revisa cual es el estado actual del proyecto y unete!**
 
-*Revisa nuestro [Tablero en Trello](https://trello.com/b/LiZalfuy/tripogeek) y enterate de los avances y todos los detalles de la Comunidad como nuestro Chat en Gitter* 
+*Revisa nuestro [Tablero en Trello](https://trello.com/b/LiZalfuy/tripogeek) y enterate de los avances y todos los detalles de la Comunidad como nuestro Chat en Gitter.* 
 
 ## Reglamento
 
 La comunidad se rige bajo un [Reglamento](https://github.com/AlexisNava/tripogeek/blob/master/REGULATIONS.md) que proporciona un ambiente optimo para cualquier persona, libre de cualquier tipo de violencia o discriminación.
 
-**Las sanciones se seguiran aplicando sin importar que la persona desconozca el contenido del reglamento**
+**Las sanciones se seguirán aplicando sin importar que la persona desconozca el contenido del reglamento.**

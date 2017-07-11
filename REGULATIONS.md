@@ -42,7 +42,7 @@
 
 * Aporte-> Vídeos, Noticias, Cursos.
 
-* Empleo-> Si es una propuesta de trabajo freelance. (con la previa autorización de los moderadores)
+* Empleo-> Si es una propuesta de trabajo freelance. (con la previa autorización de los moderadores).
 
 * OffTopic-> Chistes, o temas no relacionados con otras etiquetas, pero igual que respete el tema del grupo.
 
