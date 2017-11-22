@@ -12,9 +12,9 @@
 
 * Todos los integrantes pueden expresar su opinión y dudas.
 
-* La comunidad esta abierta para cualquier tipo de desarrollador, sin importar su experiencia, origen étnico, nacionalidad, color de piel, sexo o cualquier otra característica de la persona. Todos son bienvenidos.
+* La comunidad está abierta para cualquier tipo de desarrollador, sin importar su experiencia, origen étnico, nacionalidad, color de piel, sexo o cualquier otra característica de la persona. Todos son bienvenidos.
 
-* Todas las decisiones se toman de manera democrática y estas se respetaran, pues es la decisión de la mayor parte de la comunidad.
+* Todas las decisiones se toman de manera democrática y estas se respetarán, pues es la decisión de la mayor parte de la comunidad.
 
 * Los proyectos se deben de tomar con seriedad, pues el objetivo de la comunidad es el apoyo a proyectos que puedan tener un impacto sobre la sociedad.
 
@@ -55,7 +55,7 @@
 
 ## Venta de Servicios (Curso, Hosting, Desarrollo, entre otros).
 
-*Solo se permitirán publicaciones de venta de servicios relacionados al grupo, cuando estas contengan algún beneficio para la comunidad como:*
+*Solo se permitirán publicaciones de venta de servicios relacionados al grupo, cuando estás contengan algún beneficio para la comunidad como:*
 
 * Descuentos únicos para miembros del grupo.
 
